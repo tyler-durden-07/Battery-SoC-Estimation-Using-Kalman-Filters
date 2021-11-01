@@ -1,4 +1,4 @@
-# Battrey-SOC-Kalman
+# Battery-SOC-Kalman
 This is the battery soc estimation code for lab EE401
 
 A simple and naive battery modelisation + Kalman filter for state of charge (SoC) estimation
